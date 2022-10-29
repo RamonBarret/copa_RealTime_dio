@@ -10,7 +10,7 @@ Aplicação criada para contar os gols em tempo real utilizando a Cloud Firestor
 ![preview](./.github/preview.png)
 
 
-[🔗 Clique aqui para acessar](https://ramonbarret.github.io/copa_RealTime_dio/)
+[🔗 Clique aqui para acessar](https://explorer-lab-01-coij-lhi6wo0ld-ramonbarret.vercel.app/) 
 
 ## 🛠 Tecnologias
 
