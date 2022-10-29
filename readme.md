@@ -6,7 +6,7 @@ Aplicação criada para contar os gols em tempo real utilizando a Cloud Firestor
 ### Vídeo da página:
 ![preview](./.github/copavideo.gif)
 
-### preview da página:
+### Preview da página:
 ![preview](./.github/preview.png)
 
 
